@@ -1,5 +1,4 @@
-## Welcome to the Greatest Games Ever!
-### These games are awesome!
+## Welcome to GitHub Games
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
